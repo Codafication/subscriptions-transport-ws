@@ -1,5 +1,5 @@
 {
-  "name": "subscriptions-transport-ws",
+  "name": "@teamcodafication/subscriptions-transport-ws-v0.8",
   "version": "0.8.1",
   "description": "A websocket transport for GraphQL subscriptions",
   "main": "dist/index.js",
